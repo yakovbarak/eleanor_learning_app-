@@ -1,0 +1,14 @@
+{
+  "languages": [
+    {
+      "id": "he",
+      "display_name": "עברית",
+      "number_sound_path": "assets/sounds/numbers/he"
+    },
+    {
+      "id": "ru",
+      "display_name": "Русский",
+      "number_sound_path": "assets/sounds/numbers/ru"
+    }
+  ]
+}
